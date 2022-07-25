@@ -14,11 +14,11 @@ Formado em técnico de programação e estruturção de banco de dados, sempre e
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dehCastiglioni&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dehCastiglioni&theme=synthwave)](https://github.com/dehCastiglioni/github-readme-stats)
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dehCastiglioni&repo=dehCastiglioni.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dehCastiglioni&repo=dehCastiglioni.github.io)](https://github.com/dehCastiglioni/github-readme-stats)
 
 # Contatos
 
