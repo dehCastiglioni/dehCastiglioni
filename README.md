@@ -18,7 +18,7 @@ Formado em técnico de programação e estruturção de banco de dados, sempre e
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dehCastiglioni&repo=dehCastiglioni.github.io)](https://github.com/dehCastiglioni/dehCastiglioni.github.io/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dehCastiglioni&repo=dehCastiglioni.github.io)](https://github.com/dehCastiglioni/dehCastiglioni.github.io)
 
 # Contatos
 
