@@ -17,7 +17,7 @@ Formado em técnico de programação e estruturção de banco de dados, sempre e
 # Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dehCastiglioni&repo=dehCastiglioni.github.io)](https://github.com/dehCastiglioni/dehCastiglioni.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dehCastiglioni&repo=cagiogames)](https://github.com/dehCastiglioni/cagiogames.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dehCastiglioni&repo=cagiogames)](dehcastiglioni.github.io/cagiogames/)
 
 # Contatos
 
