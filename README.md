@@ -2,7 +2,13 @@
 
 # Biografia
 
-Formado em técnico de programação e estruturção de banco de dados, sempre em busca de ampliar os conhecimentos
+Sou formado em técnico de informática, onde aprendi a utilizar as linguagens de programação, como Java, C#, assim como linguagem de marcação, HTML, juntamente com CSS, para desenvolver sistemas e landing pages, respectivamente. Também aprendi a estruturar banco de dados, através do SQL Server e Apache.
+
+Atualmente, estou desenvolvendo aplicações para preencher meu portfólio, como também atuando como freelancer com as tecnologias citadas.
+
+No Front-end tenho experiência e conhecimento em HTML, CSS e JavaScript, como também estou adquirindo experiência e conhecimento em React, Angular, Bootstrap, Vue, criando constantimente aplicações web responsivas com essas tecnologias para, além do meu desenvolvimento profissional, me desenvolver no âmbito pessoal, sempre em busca de conhecimento.
+
+No Back-end tenho conhecimento em C# e Java, criando sistemas, aplicando POO, desde a documentação, passando pela estruturação do banco de dados, até a interface do usuário.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
