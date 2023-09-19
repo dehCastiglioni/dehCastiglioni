@@ -2,7 +2,7 @@
 
 # Biografia
 
-Sou formado em técnico de informática, onde aprendi a utilizar as linguagens de programação, como Java, C#, assim como linguagem de marcação, HTML, juntamente com CSS, para desenvolver sistemas e landing pages, respectivamente. Também aprendi a estruturar banco de dados, através do SQL Server e Apache.
+Sou formado em técnico de informática, onde aprendi a utilizar as linguagens de programação, como Java, C#, assim como linguagem de marcação, HTML, juntamente com CSS, para desenvolver sistemas e landing pages, respectivamente. Também aprendi a modelar banco de dados, através do SQL Server e Apache.
 
 Atualmente, estou desenvolvendo aplicações para preencher meu portfólio, como também atuando como freelancer com as tecnologias citadas.
 
