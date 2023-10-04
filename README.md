@@ -8,7 +8,7 @@ Atualmente, estou desenvolvendo aplicações para preencher meu portfólio, como
 
 No Front-end tenho experiência e conhecimento em HTML, CSS e JavaScript, como também estou adquirindo experiência e conhecimento em React, Angular, Bootstrap, Vue, criando constantimente aplicações web responsivas com essas tecnologias para, além do meu desenvolvimento profissional, me desenvolver no âmbito pessoal, sempre em busca de conhecimento.
 
-No Back-end tenho conhecimento em C# e Java, criando sistemas, aplicando POO, desde a documentação, passando pela estruturação do banco de dados, até a interface do usuário.
+No Back-end tenho conhecimento em C# e Java, criando sistemas, aplicando POO, desde a documentação, passando pela modelagem do banco de dados, até a interface do usuário.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -22,7 +22,8 @@ No Back-end tenho conhecimento em C# e Java, criando sistemas, aplicando POO, de
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dehCastiglioni&repo=dehCastiglioni.github.io)](https://github.com/dehCastiglioni/dehCastiglioni.github.io)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dehCastiglioni&repo=dehCastiglioni.github.io&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dehCastiglioni/dehCastiglioni.github.io)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dehCastiglioni&repo=previsao-do-tempo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/dehCastiglioni/previsao-do-tempo)
 
 # Contatos
 
